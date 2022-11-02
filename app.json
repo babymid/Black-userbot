@@ -9,9 +9,9 @@
      "modular",
      "productivity"
     ],
-    "repository": "https://github.com/hopepsycho/Black-userbot",
-    "website": "https://github.com/hopepsycho/Black-userbot",
-    "success_url": "https://t.me/king_of_psycho",
+    "repository": "https://github.com/babymid/Black-userbot",
+    "website": "https://github.com/babymid/Black-userbot",
+    "success_url": "https://t.me/itzyournil",
     "stack": "container",
     "env": {
      "APP_ID": {
